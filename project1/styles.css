@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url('images/lotus.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading {
+    margin: 30px;
+    font-size: 3.5rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.input-blocks {
+    display: flex;
+    justify-content: center;
+}
+.input {
+    margin: 10px;
+    background: transparent;
+    height: 40px;
+}

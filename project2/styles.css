@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px
+}
+
+/* Footer Section */
+footer {
+    text-align: center;
+    background-color: aquamarine;
+    font-size: large;
+}

@@ -1,2 +1,2 @@
 # JavaScript-Projects
-1.[Project-1](httpe://23Bhupesh.github.io/JavaScript-Projects/project1/)
+1.[Project-1](https://23Bhupesh.github.io/JavaScript-Projects/project1/)
